@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Joe</h1>
 <h3 align="center">I'm a tech lover from Argentina</h3>
 
-- Senior Software Engineer
-- Self-taught ftw
+- 👨‍💻 Senior Software Engineer
+- 🧠 Self-taught ftw
 - 🌱 I’m currently learning **Data Science**
 
 <h3 align="left">Connect with me:</h3>
