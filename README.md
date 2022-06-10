@@ -5,7 +5,6 @@
 - 🖥️ Data Science apprentice
 - 🌎 Blockchain developer
 - 🧠 Self-taught ftw
-- 🌱 I’m currently learning **Data Science**
 
 <h3 align="left">Find me on:</h3>
 <p align="left">
