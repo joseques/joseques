@@ -2,6 +2,8 @@
 <h3 align="center">I'm a tech lover from Argentina</h3>
 
 - 👨‍💻 Senior Software Engineer
+- 🖥️ Data Science apprentice
+- 🌎 Blockchain developer
 - 🧠 Self-taught ftw
 - 🌱 I’m currently learning **Data Science**
 
